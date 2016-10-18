@@ -15,6 +15,7 @@ def second():
 
 # ich verstehe halt nicht, warum dass hier nicht vernümpftig auf GutHub committed wird.
 
+# test ob es jetzt entsprechend funktioniert
 
 halloworld()
 second()

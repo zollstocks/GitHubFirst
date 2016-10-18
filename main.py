@@ -13,6 +13,8 @@ def second():
     print r
     print r.content
 
+# ich verstehe halt nicht, warum dass hier nicht vernümpftig auf GutHub committed wird.
+
 
 halloworld()
 second()
